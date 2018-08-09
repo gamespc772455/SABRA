@@ -24,9 +24,9 @@ n(ax,[],"first_button",true);var av=null;var aC=ax;while(aC){if(aC.nodeName&&aC.
  MenuAlpha: 0,
  FadeEffect: true,
  ScaleEffect: 0,
- MenuDirection: 0,
+ MenuDirection: 1,
  MenuName: "mb5704",
- DefaultDirectionX: 1,
+ DefaultDirectionX: -1,
  HamburgerEnabled: true,
  HamburgerFromWidth: -1
 });
